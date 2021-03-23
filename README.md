@@ -18,5 +18,5 @@ Growth mindset -> Is that everything can become possible through effort, perseve
 
 
  ###### :memo:  I'm maram mustafa :mortar_board:fresh graduate from the University of Jordan from IT College with a major in Business Information Technology :email: maram.w.mustafa@gmail.com 
-[GitHub](https://github.com/maram-mustafa)
+
 
