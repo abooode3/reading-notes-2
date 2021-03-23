@@ -11,13 +11,13 @@ Growth mindset -> Is that everything can become possible through effort, perseve
 - *It's never too late*
 - *Success is a choice*
 
-***Think Different*** :point_down:
+***Think Different*** 👇
 
 ![growth mindset](https://www.mvisd.com/cms/lib/TX02216263/Centricity/Domain/1042/brain-teasers-compressor.png)
 
 
 
 
- ###### :memo:  I'm maram mustafa :mortar_board:fresh graduate from the University of Jordan from IT College with a major in Business Information Technology :email: maram.w.mustafa@gmail.com 
-[see me here :star:](https://github.com/maram-mustafa)
+ ###### 📝  I'm maram mustafa 🎓 fresh graduate from the University of Jordan from IT College with a major in Business Information Technology ✉️ maram.w.mustafa@gmail.com 
+[see me here ⭐](https://github.com/maram-mustafa)
 
