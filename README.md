@@ -5,9 +5,3 @@
 
 
 
-
-| Assignments    | Links       |
-| -----------    | ----------- |
-| Read 1         | Title       |
-| Read 2         | Text        |
-| Read 3         | Text        |
