@@ -1,21 +1,8 @@
-               version control and Git 
 
-               
--> version control is a system that allows you to revisit various versions of a file or set of files by recording changes and compare them, in a local version control 
+         Text Editor 
+terminal is a text based interface to the system, its where writing the commands and get response of it as text. 
+There are a lot of commands and they have different functions, for example use (pwd) command to know where we are now (working directory), (ls) command use to show files and folders in directory, 
+(mkdir) use to create directory and ..etc.
+ in Linux, all things are files and It's also a case sensitive and it's offers some features like hide file or directory, escape character(\),
+  and allow use spaces in directory names and command line. 
 
-there are many types of version control like:
-
-1- local version control (vcs) 
-2- centralized version control system 
-3- distributed version control system (dvcs) 
-
-Git-->  is a DVCS (distributed version control system ) thats mean you can store data in a file system made up of snapshots and store a reference to it.
-
-files in git can reside in three main states: committed, modified and staged.
-
--> committed : data stored in local database
-
- -> modified : changed happened but still not committed to database.
--> staged  : flaged a file changed version to committed it in next snapshot .
-
-**git use remote repositories and that allows the team to push informations and pull date from the repositories . 
