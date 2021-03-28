@@ -16,4 +16,5 @@
 | Read 3         | [link](Read3.md) |
 | Read 4         | [link](Read4.md) |
 | Read 5         | [link](Read5.md) |
- 
+| Read 6         | [link](Read6.md) |
+
