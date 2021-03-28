@@ -19,6 +19,21 @@ copmarision operators -> (==/!=/===/!==/>/</<=/>=)
 7) Grater than or equal to (>=)-> use to checks if the number on the left is grater than or equal number on the right  
 
 8) Less than or equal to (<=)-> use to checks if the number on the left is less than or equal number on the right 
+There are also many more operators to compare the result: logical operators:
+
+
+Logical Operatio=>
+1) && -> testes more than one condition 
+if both expression evalute to true return TRUE
+if just one of expression return false then return FALSE
+
+2) || -> testes at least one condition 
+if either expression evaluates to true then the expression return true 
+if both return false then return false
+
+3) ! ->this operation takes a single boolean value and inverts it
+!true -> false
+!false ->true
 
 LOOPS=>
 
