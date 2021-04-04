@@ -26,7 +26,7 @@ Code 201 Reading Notes:
 | Assignments    | Links                       |
 | -----------    | ----------------------      |
 | Read 1         | [link](class-01.md)         |
-| Read 2         | [link]()                    |   
+| Read 2         | [link](class-o2.md)         |   
 | Read 3         | [link]()                    |
 | Read 4         | [link]()                    |
 | Read 5         | [link]()                    |
