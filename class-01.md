@@ -19,3 +19,14 @@ in HTML5 there is a new set of elements to define the structure of a page, new e
 
 PROCESS AND DESIGN:
 Discusses a process to creating a website and the best way to do this. frist you need to know the audience (age range/country/average incom education level/ ....etc.) and what the information they will expect, and then structuring the site (site map/wireframe) so that visitors can find what they are looking for and determine the method for presenting the information(visual hierarchy) in a way that is attractive to them, such as size, font color,images, and style of the pages. and the last thing you should remmember your website should be concise, clear and selective.
+
+JAVASCRIPT:
+A script is some of instructions the pc can follow to achieve something. 
+Web pages consist of 3 components -> 1) HTML elemnt (use to structure web pages) 2) CSS (styling the html elements) 3)Javascript (used to access content and modify content.
+)
+firs you need to designing a script (representing tasks in flowchart), and then broken down each task to sequence of steps, each step translated to individual line code, after this you need to written each task in a language the computer can understand (in this case writtin in javascript)
+
+how a browser sees a web pages -> 1)receive a page as html code 2)create a model of the page and store it in memory 3) use a rendering engine to show the page on screen 
+
+** browsers use a JavaScript interpreter to translate instructions (in JavaScript) into instructions the computer can follow. 
+
