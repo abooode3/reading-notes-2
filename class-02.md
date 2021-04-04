@@ -1,16 +1,16 @@
  TEXT -->
 
 Markup Tage -> added these tages to provide extra meaning and show appropriate structure for the page (structural markup/ semantic markup)
-Headings-> there is a six level of headings at different size (<h1> the largest , <h2> the smallest)
-paragraph-> using <p> </p> to add a paragraph 
+Headings-> there is a six level of headings at different size (< h1 > the largest , < h2 > the smallest)
+paragraph-> using < p > < /p > to add a paragraph 
 
-- can add some effect of text using <b> </b> to bold text, <i> </i> to italic text, <br /> add line break ... etc 
+- can add some effect of text using < b>  < /b > to bold text, < i > < /i > to italic text, < br /> add line break ... etc 
 *Some of TAGS and its uses:
-- using <strong> tag inddicates that its content has strong imortance 
-<em> tag indicates emphasis that subtly changes the meaning of sentence 
-<blockquote> used fo longer paraghraph 
-<q> used for short quotes 
-<cite> used to referencing a pice of work .. etc 
+- using < strong > tag inddicates that its content has strong imortance 
+< em > tag indicates emphasis that subtly changes the meaning of sentence 
+< blockquote > used fo longer paraghraph 
+< q > used for short quotes 
+< cite > used to referencing a pice of work .. etc 
 
 INTRODUCING CSS-->
 
