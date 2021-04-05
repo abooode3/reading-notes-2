@@ -27,7 +27,7 @@ Code 201 Reading Notes:
 | -----------    | ----------------------      |
 | Read 1         | [link](class-01.md)         |
 | Read 2         | [link](class-02.md)         |   
-| Read 3         | [link]()                    |
+| Read 3         | [link](class-03.md)         |
 | Read 4         | [link]()                    |
 | Read 5         | [link]()                    |
 | Read 6         | [link]()                    |
