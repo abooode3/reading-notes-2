@@ -1,4 +1,4 @@
-## Table 
+# Table 
 
 In HTML there is a tags used to create a table, mainly we use the table to represent in formation in grid format.
 
@@ -12,14 +12,14 @@ there is an element used in table to make it easy like :
 
 
 
-##Certing an object
+## Certing an object
 
 There is a different ways to create an object : 1. literal notation 
                                                                           2.object construstor notation
 
 **to create a new object ** 
 > var  objectName = new object();   Blank object
-**use dot notation**
+* use dot notation 
 - to add properties and methods.
 - update a property value
 
@@ -57,7 +57,7 @@ Arrays:
 
 ***** 
 
-**Arrays Are Objects** 
+* Arrays Are Objects 
 arrays work like object, they hold many values but in array using index number and thats the (key). and sure can combine arrays an objectrs togather.
 
 Array store -> series of object
