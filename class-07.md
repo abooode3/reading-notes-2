@@ -15,9 +15,9 @@ there is an element used in table to make it easy like :
 ## Certing an object
 
 There is a different ways to create an object : 1. literal notation 
-                                                                          2.object construstor notation
+                                                2.object construstor notation
 
-**to create a new object ** 
+* to create a new object 
 > var  objectName = new object();   Blank object
 * use dot notation 
 - to add properties and methods.
@@ -53,7 +53,7 @@ Variables :
 Arrays:
             - store multiple pieces of information
             - separated the values using comma 
-             - use index number to retrieve an item 
+            - use index number to retrieve an item 
 
 ***** 
 
@@ -83,7 +83,8 @@ There is a  groups of built-in objects used in javascript
             - object help deal with real world (DATE / MATH / REGEX )
 
 
-**Creating An Instance Of The Date Object **
+* Creating An Instance Of The Date Object
+
 if need work with date can create an instance of Date Object, allow to specify any time and date
  
 > var variableNAme = new Date();
