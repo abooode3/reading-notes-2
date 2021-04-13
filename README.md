@@ -32,7 +32,7 @@ Code 201 Reading Notes:
 | Read 5         | [link](class-05.md)         |
 | Read 6         | [link](class-06.md)         |
 | Read 7         | [link](class-07.md)         | 
-| Read 8         | [link]()                    |
+| Read 8         | [link](class-08.md)         |
 | Read 9         | [link]()                    |
 | Read 10        | [link]()                    |
 | Read 11        | [link]()                    |
