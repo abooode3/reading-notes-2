@@ -13,12 +13,12 @@ firs user will fill information in the form  then press submin , the name of eac
 sometimes the website have many froms so the information sent to the server using name/value pairs
 
 * Form Tags : 
-- form tag <form>  contane action and method inside the tag
-- to create several different form use <input> tage 
-- and there is a <password> tag to hide values 
+- form tag < form>  contane action and method inside the tag
+- to create several different form use  < input > tage 
+- and there is a < password > tag to hide values 
 - and if we want to create a multiline text input < textarea>
 - to let user choose only one option, use < input type=radio>
-- to let user choose multi option use <input type=chechbox> 
+- to let user choose multi option use < input type=chechbox> 
 
 ## Lists, Tables & Forms
 
