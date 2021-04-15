@@ -1,4 +1,4 @@
-# Error Handilink & Debugging:
+# Error Handiling & Debugging:
 
 Execution context : every statment lives in one of these 
 - global context 
