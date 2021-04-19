@@ -37,6 +37,6 @@ Code 201 Reading Notes:
 | Read 10        | [link](class-10.md)         |
 | Read 11        | [link](class-11.md)         |
 | Read 12        | [link](class-12.md)         |
-| Read 13        | [link](class=13.md)         |
+| Read 13        | [link](class-13.md)         |
 | Read 14        | [link]()                    |
 | Read 15        | [link]()                    | 
