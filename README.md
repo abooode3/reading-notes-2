@@ -38,5 +38,6 @@ Code 201 Reading Notes:
 | Read 11        | [link](class-11.md)         |
 | Read 12        | [link](class-12.md)         |
 | Read 13        | [link](class-13.md)         |
-| Read 14        | [link]()                    |
+| Read 14        | [link](class-14a.md)        |
+| Read 14        | [link](class-14b.md)        | 
 | Read 15        | [link]()                    | 
