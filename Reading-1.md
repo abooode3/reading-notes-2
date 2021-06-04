@@ -1,7 +1,9 @@
-#Component-Based Architecture
+# Component-Based Architecture
  
 
 > A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+
+## charactistics of a component
 
 Reusability −  reused in different situations
 
@@ -15,7 +17,8 @@ Encapsulated − A A component depicts the interfaces
 
 Independent −  designed to have minimal dependencies on other components.
 
-Advantages
+##  advantages of using component based architecture 
+
 - Ease of deployment 
 - Reduced cost 
 - Ease of development  
