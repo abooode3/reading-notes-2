@@ -27,3 +27,23 @@ Independent −  designed to have minimal dependencies on other components.
 - Reliability 
 - System maintenance and evolution  
 - Independent 
+
+
+-------------------------------------
+
+### What is props short for
+
+“Props” :
+- is a special keyword in React
+- stands for properties 
+- being used for passing data from one component to another.
+
+
+### Using Props in React
+1. define an attribute and its value(data)
+2. Then pass it to child component(s) by using Props
+3. render the Props Data
+
+
+
+## flow of props -> can only be passed to components in one-way (parent to child)
