@@ -51,7 +51,7 @@ Code 301 Reading Notes:
 | -----------    | ----------------------      |
 | Read 1         | [link](301/Reading-1.md)    |
 | Read 2         | [link](301/Reading-2.md)    |   
-| Read 3         | [link]()                    |
+| Read 3         | [link](301/Reading-3.md)    |
 | Read 4         | [link]()                    |
 | Read 5         | [link]()                    |
 | Read 6         | [link]()                    |
