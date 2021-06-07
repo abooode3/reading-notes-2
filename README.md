@@ -50,7 +50,7 @@ Code 301 Reading Notes:
 | Assignments    | Links                       |
 | -----------    | ----------------------      |
 | Read 1         | [link](Reading-1.md)        |
-| Read 2         | [link]()                    |   
+| Read 2         | [link](Reading-2.md)        |   
 | Read 3         | [link]()                    |
 | Read 4         | [link]()                    |
 | Read 5         | [link]()                    |
