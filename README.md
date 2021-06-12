@@ -54,7 +54,7 @@ Code 301 Reading Notes:
 | Read 3         | [link](301/Reading-3.md)    |
 | Read 4         | [link](301/Reading-4.md)    |
 | Read 5         | [link](301/Reading-5.md)    |
-| Read 6         | [link]()                    |
+| Read 6         | [link](301/Reading-6.md)    |
 | Read 7         | [link]()                    | 
 | Read 8         | [link]()                    |
 | Read 9         | [link]()                    |
