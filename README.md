@@ -52,7 +52,7 @@ Code 301 Reading Notes:
 | Read 9      | [link](301/Reading-9.md)  |
 | Read 10     | [link](301/Reading-10.md) |
 | Read 11     | [link](301/Reading-11.md) |
-| Read 12     | [link]()                  |
+| Read 12     | [link](301/Reading-12.md) |
 | Read 13     | [link]()                  |
 | Read 14     | [link]()                  |
 | Read 14     | [link]()                  |
