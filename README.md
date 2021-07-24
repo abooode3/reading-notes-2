@@ -54,6 +54,22 @@ Code 301 Reading Notes:
 | Read 11     | [link](301/Reading-11.md) |
 | Read 12     | [link](301/Reading-12.md) |
 | Read 13     | [link](301/Reading-13.md) |
-| Read 14     | [link]()                  |
-| Read 14     | [link]()                  |
-| Read 15     | [link]()                  |
+
+
+
+| Assignments | Links                     |
+| ----------- | ------------------------- |
+| Read 1      | [link](401/read1.md)  |
+| Read 2      | [link](301/Reading-2.md)  |
+| Read 3      | [link](301/Reading-3.md)  |
+| Read 4      | [link](301/Reading-4.md)  |
+| Read 5      | [link](301/Reading-5.md)  |
+| Read 6      | [link](301/Reading-6.md)  |
+| Read 7      | [link](301/Reading-7.md)  |
+| Read 8      | [link](301/Reading-8.md)  |
+| Read 9      | [link](301/Reading-9.md)  |
+| Read 10     | [link](301/Reading-10.md) |
+| Read 11     | [link](301/Reading-11.md) |
+| Read 12     | [link](301/Reading-12.md) |
+| Read 13     | [link](301/Reading-13.md) |
+
