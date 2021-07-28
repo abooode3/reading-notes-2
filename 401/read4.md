@@ -42,3 +42,20 @@ public class MountainBike extends Bicycle {
 
 }
 MountainBike inherits all the fields and methods of Bicycle and adds the field seatHeight and a method to set it (mountain bikes have seats that can be moved up and down as the terrain demands).
+
+### Binary, Decimal and Hexadecimal Numbers
+
+## Decimals
+- The Decimal Number System is  called "Base 10", because it is based on the number 10, with these 10 symbols:
+0, 1, 2, 3, 4, 5, 6, 7, 8 and 9
+
+## Binary Numbers
+- Binary Numbers are just "Base 2" using 0 ,1 
+
+
+## Hexadecimal 
+- it's based 16 (0-9) and (A-F)
+
+
+
+
