@@ -68,7 +68,7 @@
 | Read 5      | [link](401/read5.md)  |
 | Read 6      | [link](401/read6.md)  |
 | Read 7      | [link](401/read8.md)  |
-| Read 8      | [link](301/Reading-8.md)  |
+| Read 8      | [link](401/read9.md)  |
 | Read 9      | [link](301/Reading-9.md)  |
 | Read 10     | [link](301/Reading-10.md) |
 | Read 11     | [link](301/Reading-11.md) |
