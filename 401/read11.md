@@ -1,5 +1,7 @@
 ##### Spring MVC and Thymeleaf: how to access data from templates
 
+#### Spring
+- The Spring Framework is an application framework and inversion of the control container for the Java platform. The framework’s core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform
 
 - @Controller classes are responsible for preparing a model map with data and selecting a view to be rendered. This model map allows for the complete abstraction of the view technology and, in the case of Thymeleaf, it is transformed into a Thymeleaf context object
 
