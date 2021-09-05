@@ -87,4 +87,4 @@
 | Read 4      | [link](401-2/READ4.md)  |
 | Read 5      | [link](401-2/READ5.md)  |
 | Read 6      | [link](401-2/READ6.md)  |
-| Read 6      | [link](401-2/READ7.md)  |
+| Read 7      | [link](401-2/READ7.md)  |
