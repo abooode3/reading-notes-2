@@ -4,7 +4,7 @@
 
 [see me here ⭐](https://github.com/maram-mustafa)
 
-## Code 102 Reading Notes :
+## Code 102 Reading Notes
 
 | Assignments | Links            |
 | ----------- | ---------------- |
@@ -16,7 +16,7 @@
 | Read 6      | [link](Read6.md) |
 | Read 7      | [link](Read7.md) |
 
-## Code 201 Reading Notes:
+## Code 201 Reading Notes
 
 | Assignments | Links                |
 | ----------- | -------------------- |
@@ -55,9 +55,7 @@
 | Read 12     | [link](301/Reading-12.md) |
 | Read 13     | [link](301/Reading-13.md) |
 
-
-## Code 401 Reading Notes:
-
+## Code 401 Reading Notes
 
 | Assignments | Links                     |
 | ----------- | ------------------------- |
@@ -79,9 +77,7 @@
 | Read 18     | [link](401/read.18.md)|
 | Read 19     | [link](401/read.19..md)|
 
-
-## Code 401-2 Reading Notes:
-
+## Code 401-2 Reading Notes
 
 | Assignments | Links                     |
 | ----------- | ------------------------- |
@@ -91,14 +87,4 @@
 | Read 4      | [link](401-2/READ4.md)  |
 | Read 5      | [link](401-2/READ5.md)  |
 | Read 6      | [link](401-2/READ6.md)  |
-| Read 7      | [link]()  |
-| Read 8      | [link]()  |
-| Read 9      | [link]()  |
-| Read 10     | [link]() |
-| Read 11     | [link]() |
-| Read 12     | [link]() |
-| Read 13     | [link]() |
-| Read 14     | [link]() |
-| Read 17     | [link]()|
-| Read 18     | [link]()|
-| Read 19     | [link]()|
+| Read 6      | [link](401-2/READ7.md)  |
