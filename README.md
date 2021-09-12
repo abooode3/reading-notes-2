@@ -89,3 +89,5 @@
 | Read 6      | [link](401-2/READ6.md)  |
 | Read 7      | [link](401-2/READ7.md)  |
 | Read 8      | [link](401-2/READ8.md)  |
+| Read Graphs      | [link](401-2/READGRAPHS.md)  |
+
